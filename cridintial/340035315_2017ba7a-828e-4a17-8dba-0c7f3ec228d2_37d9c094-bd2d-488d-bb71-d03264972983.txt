@@ -1,0 +1,13 @@
+Company Name: كليوميلانو للاستيراد والتصديروالتوكيلات التجارية
+Company Name (AR): كليوميلانو للاستيراد والتصديروالتوكيلات التجارية
+Registration Number: 340035315
+Registration Date: 9/5/2010
+Closure Date: 
+Primary Branch Address: 13 عمارات العبور صلاح سالم مصرالجديدة , Heliopolis , Cairo , Egypt
+Channel: Email
+Subscriptions: Document Received, Document Validated, Document Cancelled, Document Rejected
+Notification E-mail: cleomilano.mohammed@gmail.com
+Notification Mobile: +201120251563
+Client ID: 2017ba7a-828e-4a17-8dba-0c7f3ec228d2
+Client Secret 1: 37d9c094-bd2d-488d-bb71-d03264972983
+Client Secret 2: 5b92150d-4989-4931-8383-efed3d5073ae

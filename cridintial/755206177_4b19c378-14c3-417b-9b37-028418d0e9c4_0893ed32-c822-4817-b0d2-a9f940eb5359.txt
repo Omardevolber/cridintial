@@ -1,0 +1,13 @@
+Company Name: ديل داش للتجاره والتسويق الالكتروني
+Company Name (AR): ديل داش للتجاره والتسويق الالكتروني
+Registration Number: 755206177
+Registration Date: 16/8/2023
+Closure Date: 
+Primary Branch Address: 29 ش عبدالله بن طاهر منطقه6 مدينه نصر اول القاهره , Nasr City 1 , Cairo , Egypt , 00000
+Channel: Email
+Subscriptions: Document Received, Document Validated, Document Cancelled, Document Rejected
+Notification E-mail: delldash9@gmail.com
+Notification Mobile: +201003057747
+Client ID: 4b19c378-14c3-417b-9b37-028418d0e9c4
+Client Secret 1: 0893ed32-c822-4817-b0d2-a9f940eb5359
+Client Secret 2: 2e5c1f73-8ac8-495a-9cf3-97d70a119ab4

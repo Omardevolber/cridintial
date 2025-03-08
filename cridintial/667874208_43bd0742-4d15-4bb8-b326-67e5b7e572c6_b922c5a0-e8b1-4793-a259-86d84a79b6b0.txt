@@ -1,0 +1,13 @@
+Company Name: الهداية للامن والحراسة
+Company Name (AR): الهداية للامن والحراسة
+Registration Number: 667874208
+Registration Date: 21/3/2018
+Closure Date: 
+Primary Branch Address: 16  ب  ش حسن القاضي  من ش فاطمة  رشدى  - العمرانية   الجيزة , El Omraniya , Giza , Egypt
+Channel: Email
+Subscriptions: Document Received, Document Validated, Document Cancelled, Document Rejected
+Notification E-mail: elhedayas4@gmail.com
+Notification Mobile: +201032830695
+Client ID: 43bd0742-4d15-4bb8-b326-67e5b7e572c6
+Client Secret 1: b922c5a0-e8b1-4793-a259-86d84a79b6b0
+Client Secret 2: ba9b115e-706c-4bde-9979-84de7ff70fd5
